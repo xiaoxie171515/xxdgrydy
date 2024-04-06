@@ -1,0 +1,17 @@
+<html>
+ <head> 
+  <meta charset="utf-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <title>共享隐私空间（移动版）</title> 
+  <script src="js/jq.js"></script> 
+ </head> 
+ <body id="v1"> 
+  <
+  <h1 id="v2">每次不幸你都在我身边，想问一句，这么多年是不是你妨的我？</h1> 
+  <p id="v3">感谢大家给我一个人的掌声</p> 
+  <p id="v4">来一杯香草拿铁，不要香菜</p> 
+  <header id="v5">
+    hello 
+  </header> 
+ </body>
+</html>
